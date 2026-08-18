@@ -18,3 +18,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 This project was developed as part of an Education Portal project.
 Contributor: [Muthu ganesh]
+## Contributor
+
+This project was developed as part of an Education Portal project.
+Contributor: [Akash V]
