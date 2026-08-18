@@ -20,5 +20,4 @@ This project was developed as part of an Education Portal project.
 Contributor: [Muthu ganesh]
 ## Contributor
 
-This project was developed as part of an Education Portal project.
-Contributor: [Akash V]
+
